@@ -1,0 +1,3 @@
+Concept of elements that make up a page
+The things inside the element name (src in <img src=...>) are called attributes
+Link elements use <a>, stands for anchor
